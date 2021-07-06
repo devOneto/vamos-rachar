@@ -1,0 +1,2 @@
+rootProject.name = "vamos-rachar-pdm-2021-1"
+include ':app'
