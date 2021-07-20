@@ -12,12 +12,12 @@
     <TextView
         android:id="@+id/textView7"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="21dp"
         android:fontFamily="casual"
         android:gravity="center"
         android:text="@string/titulo"
         android:textColor="#FFFFFF"
-        android:textSize="48sp" />
+        android:textSize="20sp" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -26,15 +26,15 @@
 
         <ImageView
             android:id="@+id/imageView2"
-            android:layout_width="130dp"
-            android:layout_height="69dp"
+            android:layout_width="66dp"
+            android:layout_height="match_parent"
             android:layout_weight="1"
             app:srcCompat="@drawable/group" />
 
         <EditText
             android:id="@+id/quantidadePessoas"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="124dp"
+            android:layout_height="20dp"
             android:layout_weight="1"
             android:ems="10"
             android:inputType="number" />
@@ -48,15 +48,15 @@
 
         <ImageView
             android:id="@+id/imageView4"
-            android:layout_width="130dp"
-            android:layout_height="69dp"
+            android:layout_width="67dp"
+            android:layout_height="24dp"
             android:layout_weight="1"
             app:srcCompat="@drawable/money" />
 
         <EditText
             android:id="@+id/valorDaConta"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="124dp"
+            android:layout_height="20dp"
             android:layout_weight="1"
             android:ems="10"
             android:inputType="number" />
@@ -69,13 +69,14 @@
         android:layout_gravity="center"
         android:fontFamily="casual"
         android:text="@string/resultado"
-        android:textSize="34sp" />
+        android:textSize="14sp" />
 
     <Button
         android:id="@+id/btnRachar"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/botao" />
+        android:layout_height="38dp"
+        android:text="@string/botao"
+        android:textSize="12dp" />
 
 </LinearLayout>
 

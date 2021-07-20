@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lets split the bill!</string>
+    <string name="titulo">Lets split the bill!</string>
+    <string name="resultado">Value for each.</string>
+    <string name="botao">Calculate</string>
+</resources>

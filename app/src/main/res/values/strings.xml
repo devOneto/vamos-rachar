@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">vamos-rachar-pdm-2021-1</string>
+    <string name="titulo">Vamos Rachar!</string>
+    <string name="resultado">Valor para cada.</string>
+    <string name="botao">calcular</string>
 </resources>
